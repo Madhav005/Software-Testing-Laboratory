@@ -1,11 +1,11 @@
 # Ex.No: 3 To check the number is prime or not and inspect for failures.
  
-### DATE: 17.04.2025
-### REGISTER NUMBER : 212222040120
-### AIM: 
+## DATE: 17.04.2025
+## REGISTER NUMBER : 212222040136
+## AIM: 
 Write a python program to check the number is prime or not and inspect for failures.
  
-### Algorithm:
+## ALGORITHM:
 1. Start the program.
 2. Get the number to be checked from the user.
 3. If the number is less than or equal to 1, return "Not Prime".
@@ -15,7 +15,7 @@ Write a python program to check the number is prime or not and inspect for failu
 7. If the number is not divisible by any value from 2 to the square root, return "Prime".
 8. Stop the program.
 
-### Program:
+## PROGRAM:
 ```
 num = input() 
 flag = 0 
@@ -37,10 +37,10 @@ if num.isnumeric():
 else: 
     print("Enter a Positive Number")
 ```
-### Output:
+## OUTPUT:
 
 ![exp3 output](https://github.com/user-attachments/assets/ec461e39-de89-4156-a70a-1901d46b0c71)
 
 
-### Result:
+## RESULT:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
