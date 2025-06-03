@@ -1,10 +1,10 @@
 # Ex.No: 6 To check whether the string is Palindrome and generate test cases.
 
-### DATE: 15.05.2025                                                                        
-### REGISTER NUMBER : 212222040120
-### AIM: 
+## DATE: 15.05.2025                                                                        
+## REGISTER NUMBER : 212222040136
+## AIM: 
 Write a Python program to check whether the string is Palindrome and generate test cases. 
-### Algorithm:
+## ALGORITHM:
 1. Start
 2. Get an input from the user by prompting 
 3. Run a loop form 0 to len/2.
@@ -12,7 +12,7 @@ Write a Python program to check whether the string is Palindrome and generate te
 5. If it is, return the result that it is a palindrome.
 6. Else, return that it is not a palindrome. 
 7. Stop the program.
-### Program:
+## PROGRAM:
 
 ```
 def Palindrome(string):
@@ -39,10 +39,10 @@ else:
         print("The given string is not a palindrome")
 ```
 
-### Output:
+## OUTPUT:
 
 ![exp6 output](https://github.com/user-attachments/assets/4d055ed1-1404-42d9-8e98-97e4488aa16e)
 
 
-### Result:
+## RESULT:
 Thus, a program to check palindrome has been written and test cases have been written and verified successfully.
