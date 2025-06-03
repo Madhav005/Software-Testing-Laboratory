@@ -1,5 +1,5 @@
 # Ex.No: 5 Binary Search
-## DATE:1.05.2025
+## DATE:01.05.2025
 ## REGISTER NUMBER : 212222040136
 
 ## AIM: 
