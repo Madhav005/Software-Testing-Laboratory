@@ -1,19 +1,19 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE:  13.03.25                                                                       
-### REGISTER NUMBER : 212222040120
+## DATE:  13.03.25                                                                       
+## REGISTER NUMBER : 212222040136
 
-### AIM:  
+## AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test 
 Cases 
 
-### Algorithm:
+## ALGORITHM:
 1. Start the program.
 2. Create separate files for each given program.
 3. Write simple program for each construct.
 4.  the program with possible test cases.
 5. Stop the program.
-### Program:
+## PROGRAM:
 ### do...while:
 ```
 def display(): 
@@ -85,7 +85,7 @@ def iterate():
         print(ord(i),end=" ") 
 iterate()
 ```
-### Output:
+## OUTPUT:
 ![exp1a(1)](https://github.com/user-attachments/assets/f1b08ae2-315a-47dd-9737-797b62580bdf),![exp1a(2)](https://github.com/user-attachments/assets/7bb2e390-8659-47cf-918f-bd019b99045d)
 
 ![exp1b(1)](https://github.com/user-attachments/assets/21e1f8d7-1603-4322-8a65-098da7099358),![exp1b(2)](https://github.com/user-attachments/assets/613c350a-cac8-42c5-8a49-41b293166782)
@@ -96,7 +96,7 @@ iterate()
 
 ![exp1e](https://github.com/user-attachments/assets/c72e528d-fe8b-4801-8ffa-dc8baa6b3b42)
 
-### Result:
+## RESULT:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
 
 
