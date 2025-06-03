@@ -1,11 +1,11 @@
 # Ex.No: 5 Binary Search
-# DATE:17.04.2025
-# REGISTER NUMBER : 212222040120
+## DATE:17.04.2025
+## REGISTER NUMBER : 212222040136
 
-### AIM: 
+## AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
-### Algorithm:
+## ALGORITHM:
 
 1.  Start the program.
 2.	Read an integer input number.
@@ -17,7 +17,7 @@ Write a python program to check the number is Armstrong number or not and inspec
 8.	Check if sum == number. If true, print "It is an Armstrong Number." Otherwise, print "It is not an Armstrong Number."
 9.	Stop the program.
 
-### Program:
+## PROGRAM:
 ```
 def binary_search(arr, x):  
     low = 0 
@@ -46,11 +46,11 @@ except:
     print("Enter a valid input!")
 ```
 
-### Output:
+## OUTPUT:
 
 ![exp5 output](https://github.com/user-attachments/assets/8ecb2e29-b31b-4135-a49e-108772b64485)
 
 
-### Result:
+## RESULT:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
 
