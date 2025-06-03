@@ -1,12 +1,12 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### DATE: 20.03.2025                                                                         
-### REGISTER NUMBER : 212222040120 
+## DATE: 20.03.2025                                                                         
+## REGISTER NUMBER : 212222040136 
 
-### AIM: 
+## AIM: 
 Write a python program for matrix multiplication and inspect for failures.
  
-### Algorithm:
+## ALGORITHM:
 
 Algorithm:
 1. Start the program.
@@ -15,7 +15,7 @@ Algorithm:
 4. Get the values of two matrix.
 5. Perform matrix multiplication and store the answer in result.
 6. Stop the program.
-### Program:
+## PROGRAM:
 ```
 r1,c1=input("enter row and column count in matrix 1: ").split() 
 r2,c2=input("enter row and column count in matrix 2: ").split() 
@@ -57,11 +57,11 @@ if(r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric()):
 else: 
     print("enter a valid number")
 ```
-### Output:
+## OUTPUT:
 
 ![exp2 output](https://github.com/user-attachments/assets/e6fe4dda-8922-4421-ad2e-4adf84071feb)
 
 
-### Result:
+## RESULT:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
 
